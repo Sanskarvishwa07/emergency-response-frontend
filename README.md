@@ -78,7 +78,25 @@ App runs at: `http://localhost:3000`
 - Mobile responsive design
 - Hospital add/edit form on frontend
 - Ambulance live tracking
+## 📸 Screenshots
 
+### 🔑 Login Page
+![Login](images/login.png)
+
+### 📊 Dashboard
+![Dashboard](images/dashboard.png)
+
+### 🚨 Emergency Request
+![Emergency](images/emergency.png)
+
+### 🗺️ Live Map
+![Map](images/map.png)
+
+## 👨‍💻 Author
+**Sanskar Vishwakarma**
+M.Sc. Mathematics with Computer Science — 4th Semester
+Jamia Millia Islamia, New Delhi
+GitHub: https://github.com/Sanskarvishwa07
 ## 👨‍💻 Author
 **Sanskar Vishwakarma**
 M.Sc. Mathematics with Computer Science — 4th Semester
